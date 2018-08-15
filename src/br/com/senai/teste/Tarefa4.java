@@ -7,7 +7,7 @@ public class Tarefa4 {
 		System.out.println("Letra A");
 		if (a > b) 
 		{
-		System.out.println("true");
+		System.out.println(" true da true é essa ");
 		}
 		System.out.println("------------------------------");
 		System.out.println("Letra B");
