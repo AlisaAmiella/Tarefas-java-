@@ -2,12 +2,15 @@ package br.com.senai.teste;
 
 public class Tarefa4 {
 	public static void main(String[] args) {
-		int a = 1; int b = 2;
+		int maior = 10; int menor = 5;
 		System.out.println("------------------------------");
 		System.out.println("Letra A");
-		if (a > b) 
+		if (maior > menor) 
 		{
-		System.out.println(" true da true é essa ");
+		System.out.println(" Falso pra krl ");
+		}
+		else {
+			System.out.println(" true da true é essa ");
 		}
 		System.out.println("------------------------------");
 		System.out.println("Letra B");
